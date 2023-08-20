@@ -1,4 +1,4 @@
-# Positive Disitegration Program
+# Positive Disintegration Program
 # This program asks questions to assess the user's stage in Positive Disintegration Theory
 
 import tkinter as tk
